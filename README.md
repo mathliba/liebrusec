@@ -26,7 +26,7 @@ kx3@ Клайн<br>
 
 В её файле настроек inits.txt три строки - 
 
-f:\lib\Libruks\Архивы Либрусек\<br>
+f:\lib\Libruks\Архивы Либрусек\ <br>
 F:\lib\Libruks\Libruks\Data\Библиотека Либрусек для архивов 17-03-2024.db<br>
 c:\lazarus\components\mathliba\l.liebrusec\files\
 
