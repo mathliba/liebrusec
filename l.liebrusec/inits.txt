@@ -1,3 +1,3 @@
-f:\lib\Libruks\Архивы Либрусек\
-F:\lib\Libruks\Libruks\Data\Библиотека Либрусек для архивов 17-03-2024.db
+f:\lib\Libruks\РђСЂС…РёРІС‹ Р›РёР±СЂСѓСЃРµРє\
+F:\lib\Libruks\Libruks\Data\Р‘РёР±Р»РёРѕС‚РµРєР° Р›РёР±СЂСѓСЃРµРє РґР»СЏ Р°СЂС…РёРІРѕРІ 17-03-2024.db
 c:\lazarus\components\mathliba\l.liebrusec\files\
